@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I’m Richard Gregory.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a self-taught software developer interested in becoming an AI and Machine Learning engineer.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I have worked mostly with languages like `Python, JavaScript, SQL; and technologies like AWS, Kubernetes, Docker, Openshift, Linux, Vagrant.`
 
-
-[jekyll-organization]: https://github.com/jekyll
+In my spare time, I enjoy running, reading & writing, traveling, listening to music (electronic, alternative-*, indie pop) and contributing to open-source software.
