@@ -8,12 +8,20 @@ entries:
       - title: linkedin
         url: http://linkedin.com/in/richardgreg/
     
-  - title: thoughts
+  - title: all posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+
+  - title: outreachy
+    post_list:
+      category: outreachy
+      limit: 5
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: archive-outreachy.html
 
   - title: rss
     url: feed.xml
