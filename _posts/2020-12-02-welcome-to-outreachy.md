@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "blog 1: Introduce yourself!"
+title:  "blog 1: About Him!"
 date:   2020-12-02
 categories: outreachy
 ---
