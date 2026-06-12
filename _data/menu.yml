@@ -15,13 +15,21 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: outreachy
+  - title: Ethereum Protocol Fellowship
     post_list:
-      category: outreachy
+      category: ethereum-protocol-fellowship
       limit: 5
       show_more: true
       show_more_text: See more posts...
-      show_more_url: archive-outreachy.html
+      show_more_url: archive-ethereum-protocol-fellowship.html
+
+  # - title: outreachy
+  #   post_list:
+  #     category: outreachy
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See more posts...
+  #     show_more_url: archive-outreachy.html
 
   - title: rss
     url: feed.xml
